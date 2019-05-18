@@ -1,3 +1,3 @@
-# Practice Branch in Git4
+# Practice Branch in Git
 
 This is the project for working, learning basic branching in Git.
